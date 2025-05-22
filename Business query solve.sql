@@ -319,7 +319,7 @@ ON sns.seller_id = o.seller_id
 join order_items as oi
 ON o.order_id=oi.order_id
 Group by 1;
-
+```
 ---Q16.Identify customer into reuturning or new
 --if the customer has done more than 5 return categories them as returining otherwise new
 --Additional info: List customer_id,name,total orders,total returns
@@ -348,7 +348,7 @@ ON  oi.order_id=o.order_id
 Group by 1
 order by 3 desc
 );
-```sql
+```
 	
 ## Q17. Top 5 customer by orders in each state
 Identify the top 5 customer with the higest number of orders for each state
