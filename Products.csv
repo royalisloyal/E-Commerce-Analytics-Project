@@ -1,0 +1,151 @@
+product_id,product_name,price,cogs,category_id
+7001,Apple AirPods 3rd Gen,199.99,78.00,1
+7002,Apple AirPods Max,549.99,231.00,1
+7003,Apple AirPods Pro,249.99,112.50,1
+7004,Apple AirPods Pro 2nd Gen,249.99,17.50,1
+7005,Apple AirPods Pro 2nd Generation,249.99,20.00,1
+7006,Apple iMac 24-Inch,1299.99,585.00,1
+7007,Apple iMac 27-Inch Retina,1799.99,324.00,1
+7008,Apple iMac Pro,4999.99,400.00,1
+7009,Apple iPad 10th Gen,449.99,135.00,1
+7010,Apple iPad 9th Gen,329.99,39.60,1
+7011,Apple iPad Air (5th Gen),649.99,156.00,1
+7012,Apple iPad Air (5th Gen),599.99,120.00,1
+7013,Apple iPad Pro (11-inch),799.99,232.00,1
+7014,Apple iPad Pro 12.9-inch (4th Gen),999.99,210.00,1
+7015,Apple iPad Pro 12.9-inch (5th Gen),1099.99,352.00,1
+7016,Apple iPhone 12 Mini,699.99,210.00,1
+7017,Apple iPhone 13 Mini,699.99,112.00,1
+7018,Apple iPhone 14,799.99,208.00,1
+7019,Apple iPhone 14 Pro,999.99,190.00,1
+7020,Apple iPhone 15 Pro,1199.99,285.00,1
+7021,Apple Watch Series 9,429.99,150.00,1
+7022,Apple Watch Ultra 2,799.99,280.00,1
+7023,MacBook Air 13-inch M2,1099.99,385.00,1
+7024,MacBook Pro 14-inch M3 Pro,1999.99,700.00,1
+7025,Apple TV 4K,129.99,45.00,1
+7026,HomePod mini,99.99,30.00,1
+7027,Magic Keyboard,99.99,25.00,1
+7028,Magic Mouse,79.99,20.00,1
+7029,Apple Pencil (2nd Gen),129.99,35.00,1
+7030,AirTag 4-pack,99.99,25.00,1
+7031,Pet Hair Remover Glove,12.99,3.90,4
+7032,Pet Nail Clippers,9.99,3.00,4
+7033,Pet Grooming Brush,14.99,4.50,4
+7034,Pet Shampoo,12.99,3.90,4
+7035,Pet Conditioner,12.99,3.90,4
+7036,Pet Wipes,8.99,2.70,4
+7037,Pet Ear Cleaner,9.99,3.00,4
+7038,Pet Toothbrush,6.99,2.10,4
+7039,Pet Toothpaste,9.99,3.00,4
+7040,Pet Dental Wipes,8.99,2.70,4
+7041,Pet Dental Spray,12.99,3.90,4
+7042,Pet Dental Gel,12.99,3.90,4
+7043,Pet Dental Chews,14.99,4.50,4
+7044,Pet Dental Treats,12.99,3.90,4
+7045,Pet Breath Freshener,9.99,3.00,4
+7046,Pet Water Additive,12.99,3.90,4
+7047,Pet Flea & Tick Shampoo,14.99,4.50,4
+7048,Pet Flea & Tick Spray,12.99,3.90,4
+7049,Pet Flea & Tick Powder,9.99,3.00,4
+7050,Pet Flea & Tick Collar,14.99,4.50,4
+7051,Pet Flea & Tick Drops,19.99,6.00,4
+7052,Pet Flea & Tick Comb,6.99,2.10,4
+7053,Pet Flea & Tick Brush,8.99,2.70,4
+7054,Pet Flea & Tick Wipes,9.99,3.00,4
+7055,Pet Flea & Tick Treatment,24.99,7.50,4
+7056,Pet Flea & Tick Prevention,29.99,9.00,4
+7057,Pet Flea & Tick Repellent,19.99,6.00,4
+7058,Pet Flea & Tick Control,24.99,7.50,4
+7059,Pet Flea & Tick Killer,19.99,6.00,4
+7060,Pet Flea & Tick Shampoo,14.99,4.50,4
+7061,Men's Cotton T-Shirt,19.99,8.00,2
+7062,Women's Yoga Pants,29.99,12.00,2
+7063,Kids' Hoodie,24.99,10.00,2
+7064,Men's Jeans,49.99,20.00,2
+7065,Women's Summer Dress,39.99,16.00,2
+7066,Unisex Sneakers,59.99,24.00,2
+7067,Men's Formal Shirt,34.99,14.00,2
+7068,Women's Blazer,69.99,28.00,2
+7069,Kids' Raincoat,29.99,12.00,2
+7070,Men's Winter Jacket,89.99,36.00,2
+7071,Women's Leggings,22.99,9.00,2
+7072,Men's Swim Trunks,27.99,11.00,2
+7073,Women's Bikini,39.99,16.00,2
+7074,Kids' Backpack,19.99,8.00,2
+7075,Men's Socks 6-Pack,14.99,6.00,2
+7076,Women's Scarf,12.99,5.00,2
+7077,Unisex Beanie,9.99,4.00,2
+7078,Men's Belt,17.99,7.00,2
+7079,Women's Handbag,49.99,20.00,2
+7080,Kids' Sandals,22.99,9.00,2
+7081,Non-Stick Frying Pan,24.99,10.00,3
+7082,Blender,49.99,20.00,3
+7083,Coffee Maker,59.99,24.00,3
+7084,Air Fryer,79.99,32.00,3
+7085,Dinnerware Set,69.99,28.00,3
+7086,Kitchen Knife Set,89.99,36.00,3
+7087,Food Storage Containers,19.99,8.00,3
+7088,Pressure Cooker,99.99,40.00,3
+7089,Toaster,29.99,12.00,3
+7090,Microwave Oven,129.99,52.00,3
+7091,Water Filter Pitcher,22.99,9.00,3
+7092,Cutting Board Set,17.99,7.00,3
+7093,Measuring Cups,9.99,4.00,3
+7094,Bed Sheet Set,39.99,16.00,3
+7095,Throw Pillow,14.99,6.00,3
+7096,Desk Lamp,19.99,8.00,3
+7097,Wall Clock,22.99,9.00,3
+7098,Laundry Hamper,12.99,5.00,3
+7099,Shower Curtain,16.99,7.00,3
+7100,Plant Pot,9.99,4.00,3
+7101,LEGO Classic Set,29.99,12.00,5
+7102,Board Game: Monopoly,24.99,10.00,5
+7103,Remote Control Car,39.99,16.00,5
+7104,Jigsaw Puzzle 500pc,14.99,6.00,5
+7105,Plush Stuffed Animal,12.99,5.00,5
+7106,Action Figure Set,19.99,8.00,5
+7107,Card Game: Uno,9.99,4.00,5
+7108,Building Blocks,22.99,9.00,5
+7109,Dollhouse,49.99,20.00,5
+7110,Science Kit,34.99,14.00,5
+7111,Magic Set,19.99,8.00,5
+7112,Play Kitchen,59.99,24.00,5
+7113,Art Supplies Kit,27.99,11.00,5
+7114,Electronic Learning Toy,39.99,16.00,5
+7115,Model Train Set,89.99,36.00,5
+7116,Outdoor Play Tent,44.99,18.00,5
+7117,Bubble Machine,12.99,5.00,5
+7118,Karaoke Microphone,29.99,12.00,5
+7119,Chess Set,17.99,7.00,5
+7120,Water Gun,9.99,4.00,5
+7121,Yoga Mat,29.99,12.00,6
+7122,Running Shoes,79.99,32.00,6
+7123,Camping Tent,149.99,60.00,6
+7124,Cycling Helmet,49.99,20.00,6
+7125,Dumbbell Set,89.99,36.00,6
+7126,Jump Rope,9.99,4.00,6
+7127,Swimming Goggles,14.99,6.00,6
+7128,Hiking Backpack,59.99,24.00,6
+7129,Soccer Ball,19.99,8.00,6
+7130,Basketball,24.99,10.00,6
+7131,Tennis Racket,69.99,28.00,6
+7132,Golf Balls 12-Pack,22.99,9.00,6
+7133,Skateboard,59.99,24.00,6
+7134,Fishing Rod,49.99,20.00,6
+7135,Water Bottle,12.99,5.00,6
+7136,Gym Gloves,17.99,7.00,6
+7137,Resistance Bands,14.99,6.00,6
+7138,Ping Pong Paddle Set,19.99,8.00,6
+7139,Baseball Bat,34.99,14.00,6
+7140,Binoculars,44.99,18.00,6
+7141,Wireless Earbuds,59.99,24.00,1
+7142,Bluetooth Speaker,49.99,20.00,1
+7143,Smartwatch,129.99,52.00,1
+7144,External Hard Drive,79.99,32.00,1
+7145,USB-C Hub,29.99,12.00,1
+7146,Computer Monitor,199.99,80.00,1
+7147,Mechanical Keyboard,89.99,36.00,1
+7148,Gaming Mouse,59.99,24.00,1
+7149,Webcam,44.99,18.00,1
+7150,Noise-Canceling Headphones,149.99,60.00,1
