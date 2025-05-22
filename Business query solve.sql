@@ -1,12 +1,9 @@
 
 
-## Business problems
+## 👨‍💻 Business problems
 
-----Q1. Top selling products(query the top 10 products by total sales value)
---challenge: Include product name,total quantity sold and total sales value
---order_items - oi
---orders -o
---product -pr
+Q1. Top selling products(query the top 10 products by total sales value)
+challenge: Include product name,total quantity sold and total sales value
 
 Select 
 oi.product_id,
