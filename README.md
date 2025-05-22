@@ -7,6 +7,11 @@ I designed and analyzed a comprehensive e-commerce dataset  to simulate real-wor
 
 The project also focuses on data cleaning, handling null values, and solving real-world business problems using structured queries.
 
+## 📊 Entity-Relationship Diagram
+
+![ERD Diagram](https://github.com/royalisloyal/E-Commerce-Analytics-Project/blob/main/ERD%20Diagram.png?raw=true)
+
+
 ##  Dataset Cleaning Steps
 
 I performed comprehensive data cleaning on the dataset, including:
