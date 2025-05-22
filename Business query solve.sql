@@ -1,6 +1,6 @@
 
 
-## 👨‍💻 Business problems and solution query:
+# 👨‍💻 Business problems and solution query:
 	
 Q1. Find out top selling products (query the top 10 products by total sales value)
 challenge: Include product name,total quantity sold and total sales value
