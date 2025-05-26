@@ -1,9 +1,9 @@
 
-## 👨‍💻 Data Analyst Project: E-Commerce Analytics Retail Simulation (PostgreSQL)
+##  Data Analyst Project: E-Commerce Analytics Retail Simulation (PostgreSQL)
 
 # Project Overview
 
-I designed and analyzed a comprehensive e-commerce dataset  to simulate real-world business challenges faced by Amazon-style retailers. This end-to-end analytics project leverages **PostgreSQL** to extract actionable insights that drive strategic decision-making.
+I designed and analyzed a comprehensive e-commerce dataset  to simulate real-world business challenges like E-commerce business. This end-to-end analytics project leverages **PostgreSQL** to extract actionable insights that drive strategic decision-making.
 
 The project also focuses on data cleaning, handling null values, and solving real-world business problems using structured queries.
 
